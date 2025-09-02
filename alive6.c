@@ -273,6 +273,7 @@ void help(char *prg) {
 /*
     Copyright (c) warlord @ nologin.org.  All rights reserved.
     For more information, please visit http://www.nologin.org
+    Relicensed to APGL 3.0 for thc-ipv6 (email from 2 Sept 2025)
  */
 
 char *get_OS(char *query_fp) {
