@@ -7,8 +7,10 @@
  *   - srv support
  * have fun!     van Hauser / THC, (c) 2022
  *
- * ** dnsmap - DNS Network Mapper by pagvac
- * ** Copyright (C) 2014 gnucitizen.org
+ * ** contains code from dnsmap - DNS Network Mapper by pagvac
+ * ** Copyright (C) 2014-2021 gnucitizen.org GPL2+
+ *
+ * New License: AGPL 3.0
  */
 
 #include <stdio.h>
